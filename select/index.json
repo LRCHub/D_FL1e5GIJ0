@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Passing",
+  "base_artist": "柴田聡子",
+  "createdAt": "2026-03-24T15:12:48.722903Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "In Passing",
+      "artist": "The Lemonheads",
+      "has_synced": false,
+      "path": "select/01_In_Passing_The_Lemonheads.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Passing Out Pieces",
+      "artist": "Mac DeMarco",
+      "has_synced": true,
+      "path": "select/02_Passing_Out_Pieces_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Passing Stars",
+      "artist": "Thievery Corporation",
+      "has_synced": true,
+      "path": "select/03_The_Passing_Stars_Thievery_Corporation.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Passing Time",
+      "artist": "Clannad",
+      "has_synced": false,
+      "path": "select/04_Passing_Time_Clannad.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Keep Passing The Open Windows",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/05_Keep_Passing_The_Open_Windows_Queen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "As The Years Go Passing By",
+      "artist": "Albert King",
+      "has_synced": true,
+      "path": "select/06_As_The_Years_Go_Passing_By_Albert_King.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Like An Angel Passing Through My Room",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/07_Like_An_Angel_Passing_Through_My_Room_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Passing the Petal 2 You",
+      "artist": "Ariel Pink's Haunted Graffiti",
+      "has_synced": false,
+      "path": "select/08_Passing_the_Petal_2_You_Ariel_Pink's_Haunted_Graffiti.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Passing The Time - Alternate Version",
+      "artist": "Cream",
+      "has_synced": true,
+      "path": "select/09_Passing_The_Time_-_Alternate_Version_Cream.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Passing The Time (Alternate Version)",
+      "artist": "Cream",
+      "has_synced": true,
+      "path": "select/10_Passing_The_Time_(Alternate_Version)_Cream.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Passing The Time",
+      "artist": "Cream",
+      "has_synced": false,
+      "path": "select/11_Passing_The_Time_Cream.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Passing & Galloping",
+      "artist": "Mice Parade",
+      "has_synced": false,
+      "path": "select/12_Passing_&_Galloping_Mice_Parade.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Passing By",
+      "artist": "Zero 7",
+      "has_synced": false,
+      "path": "select/13_Passing_By_Zero_7.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Passing Through",
+      "artist": "Cheap Trick",
+      "has_synced": false,
+      "path": "select/14_Passing_Through_Cheap_Trick.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Passing",
+      "artist": "柴田聡子",
+      "has_synced": false,
+      "path": "select/pl_01_Passing_柴田聡子.txt"
+    }
+  ]
+}
